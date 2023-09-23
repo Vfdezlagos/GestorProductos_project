@@ -1,0 +1,18 @@
+.formulario {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input {
+    border: 2px solid #3333337b;
+    border-radius: 10px;
+}
+
+.descripcion{
+    border: 3px solid rgba(0, 0, 0, 0.395);
+    border-radius: 10px;
+}
